@@ -46,13 +46,14 @@ me chamo pedro henrique, tenho 19 anos e sou natural da paraíba. conclui o ensi
 
 ### 📊 estatísticas
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <img 
-    height="180" 
+    height="180"
+    style="margin-right: 40px;"
     src="https://github-readme-stats.vercel.app/api?username=phdeandrade&show_icons=true&theme=dark&locale=pt-br" 
   />
   <img 
-    height="180" 
+    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdeandrade&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
