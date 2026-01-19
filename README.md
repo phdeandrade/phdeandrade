@@ -46,7 +46,7 @@ me chamo pedro henrique, tenho 19 anos e sou natural da paraíba. conclui o ensi
 
 ### 📊 estatísticas
 
-<table align="center" cellpadding="15">
+<table align="center" cellpadding="25" cellspacing="0">
   <tr>
     <td align="center" valign="top">
       <img 
