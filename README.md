@@ -6,12 +6,6 @@
 
 me chamo pedro henrique, tenho 19 anos e sou natural da paraíba. conclui o ensino médio no ifpb, com o curso técnico em informática e atualmente estou cursando ciência da computação na ufcg.
 
-### 📚 meus interesses
-
-- **matemática**: sou fascinado pelas aplicações da matemática à tecnologia da informação
-- **desenvolvimento de software**: tenho muito interesse no estudo de como desenvolver sistemas robustos & confiáveis
-- **ciência de dados e inteligência artificial**: ainda em desenvolvimento... mas pretendo começar minhas pesquisas!
-
 ### 🤖 linguagens e tecnologias
 
 <img 
