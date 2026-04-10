@@ -42,5 +42,14 @@ me chamo pedro henrique, tenho 19 anos e sou natural da paraíba. conclui o ensi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
+/>
+
 <br/>
 <br/>
