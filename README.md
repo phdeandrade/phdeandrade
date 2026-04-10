@@ -4,7 +4,7 @@
 
 ### 👤 quem sou eu? 
 
-me chamo pedro henrique, tenho 19 anos e sou natural da paraíba. conclui o ensino médio no ifpb, com o curso técnico em informática e atualmente estou cursando ciência da computação na ufcg.
+me chamo pedro henrique, tenho 19 anos e sou natural da paraíba. sou técnico em informática pelo ifpb e atualmente estou no 3º período de ciência da computação na ufcg. 
 
 ### 🤖 linguagens e tecnologias
 
